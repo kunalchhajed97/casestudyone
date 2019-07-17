@@ -10,3 +10,9 @@ C:\Users\320052452\BootCamp_CaseStudy_one\BootCamp_CaseStudy_one\bin\Debug\BootC
 C:\Users\320052452\BootCamp_CaseStudy_one\BootCamp_CaseStudy_one\obj\Debug\BootCamp_CaseStudy_one.csprojResolveAssemblyReference.cache
 C:\Users\320052452\BootCamp_CaseStudy_one\BootCamp_CaseStudy_one\obj\Debug\BootCamp_CaseStudy_one.exe
 C:\Users\320052452\BootCamp_CaseStudy_one\BootCamp_CaseStudy_one\obj\Debug\BootCamp_CaseStudy_one.pdb
+C:\Users\320052452\casestudyone\BootCamp_CaseStudy_one\bin\Debug\BootCamp_CaseStudy_one.exe.config
+C:\Users\320052452\casestudyone\BootCamp_CaseStudy_one\bin\Debug\BootCamp_CaseStudy_one.exe
+C:\Users\320052452\casestudyone\BootCamp_CaseStudy_one\bin\Debug\BootCamp_CaseStudy_one.pdb
+C:\Users\320052452\casestudyone\BootCamp_CaseStudy_one\obj\Debug\BootCamp_CaseStudy_one.csprojResolveAssemblyReference.cache
+C:\Users\320052452\casestudyone\BootCamp_CaseStudy_one\obj\Debug\BootCamp_CaseStudy_one.exe
+C:\Users\320052452\casestudyone\BootCamp_CaseStudy_one\obj\Debug\BootCamp_CaseStudy_one.pdb
